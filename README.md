@@ -18,5 +18,6 @@ This project is a gesture-based counter using an ESP32, HC-SR04 Ultrasonic Senso
 * Instagram Reel 👉 [Watch Here](https://www.instagram.com/reel/DOBWmKDE8jk/?igsh=M2Ntb3B1MGRid3pn)
 
 ---
-
+## Circuit Diagram
+![Gesture Count Circuit](./gesture_count_circuit_diagram.png)
 
